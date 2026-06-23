@@ -21,3 +21,15 @@ Traditional HR reporting methods often fail to provide deeper insights into the 
 High attrition often leads to increased recruitment expenses, knowledge loss, reduced team morale, and disruptions in business continuity.
 
 The core challenge is not just tracking attrition, but identifying why employees leave, which workforce segments are most at risk, and how attrition can be proactively reduced through predictive analysis and strategic interventions.
+
+# 🎯 Objectives
+
+**Defining the Key Goals of the Project:-**
+
+- Analyzing employee attrition trends across the organization using HR workforce data.
+- Identifying key factors influencing attrition, including demographics, compensation, satisfaction, overtime, and tenure.
+- Building interactive dashboards for workforce monitoring and business decision-making.
+- Deriving actionable insights to uncover major attrition drivers and high-risk employee segments.
+- Developing an automated attrition predictor using scoring logic and VBA automation.
+- Enabling proactive HR decision-making through risk classification and predictive analytics.
+- Providing data-driven business recommendations to improve employee retention and reduce attrition.
