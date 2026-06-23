@@ -56,3 +56,61 @@ The core challenge is not just tracking attrition, but identifying why employees
 - **ChatGPT** → Project planning, analytical guidance, business insights, logic validation
 - **Google Gemini** → Design ideation, creative assistance, visual asset generation
 - **Gamma AI** → Presentation structuring and storytelling support
+
+# 📂 Dataset Information
+
+**Understanding the Data Behind the Analysis:-**
+
+- **Dataset Name**: HR Employee Attrition Dataset
+- **Source**: KAGGLE
+- **File Format**: CSV
+- **Total Records**: 1470 Employees
+- **Total Features**: 35 Columns
+
+### Column Description
+
+#### Columns that made it to Final sheet:-
+
+| Column | Meaning |
+|--------|---------|
+| Age | Employee’s age |
+| Attrition | Whether the employee left the company or not |
+| BusinessTravel | Frequency of business travel |
+| Department | Department where employee works |
+| DistanceFromHome | Distance between home and office |
+| EducationLevel | Education qualification level |
+| EducationField | Field of education studied |
+| EnvironmentSatisfaction | Satisfaction with work environment |
+| Gender | Employee’s gender |
+| JobInvolvement | Level of involvement in work |
+| JobLevel | Seniority/rank level of employee |
+| JobRole | Employee’s job position |
+| JobSatisfaction | Satisfaction with job |
+| MaritalStatus | Employee’s marital status |
+| MonthlyIncome | Employee’s monthly salary |
+| NumCompaniesWorked | Number of companies worked before |
+| OverTime | Whether employee works overtime or not |
+| PercentSalaryHike | Percentage increase in salary compared to last year |
+| PerformanceRating | Employee performance rating |
+| RelationshipSatisfaction | Satisfaction with workplace relationships |
+| TotalWorkingYears | Total years of work experience |
+| TrainingTimesLastYear | Number of trainings attended last year |
+| WorkLifeBalance | Employee’s work-life balance rating |
+| YearsAtCompany | Years spent in the company |
+| YearsInCurrentRole | Years spent in current role |
+| YearsSinceLastPromotion | Years since last promotion |
+| YearsWithCurrManager | Years worked with current manager |
+
+#### Columns that didnot make it:-
+
+| Column | Meaning |
+|--------|---------|
+| DailyRate | Daily salary/payment rate |
+| EmployeeCount | All values are 1 |
+| EmployeeNumber | Serial number / unique identifier |
+| HourlyRate | Hourly salary/payment rate |
+| MonthlyRate | Monthly payment rate |
+| Over18 | Whether employee is over 18 years or not |
+| StandardHours | All values are 80 |
+| StockOptionLevel | Level of company stock benefits |
+
