@@ -33,3 +33,26 @@ The core challenge is not just tracking attrition, but identifying why employees
 - Developing an automated attrition predictor using scoring logic and VBA automation.
 - Enabling proactive HR decision-making through risk classification and predictive analytics.
 - Providing data-driven business recommendations to improve employee retention and reduce attrition.
+
+# 🛠 Tools & Technologies Used
+
+**Technology Stack Behind the Project Development:-**
+
+### Core Tools
+
+- **Microsoft Excel** → Core platform for data analysis, dashboarding, and reporting
+- **Advanced Excel** → Pivot Tables, Pivot Charts, Lookup Functions, Dynamic KPIs, Conditional Formatting, Data Validation
+- **VBA (Visual Basic for Applications)** → Dashboard interactivity, chart switching, sheet automation, prediction engine, reset functionality
+
+### Analytical & Technical Skills
+
+- **Data Analytics** → Workforce analysis, trend identification, business insights generation
+- **Predictive Modeling** → Rule-based attrition scoring model with risk classification
+- **Data Visualization** → Interactive dashboards, KPI cards, business charts, dynamic reports
+- **CSV Dataset Handling** → Raw data preprocessing, cleaning, and transformation
+
+### AI Assistance Tools
+
+- **ChatGPT** → Project planning, analytical guidance, business insights, logic validation
+- **Google Gemini** → Design ideation, creative assistance, visual asset generation
+- **Gamma AI** → Presentation structuring and storytelling support
