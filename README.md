@@ -11,3 +11,13 @@ This project presents an end-to-end HR Attrition Analysis & Automated Predictor 
 The project includes comprehensive workforce analysis across employee demographics, compensation, job satisfaction, work-life balance, overtime, tenure, and managerial factors to identify key drivers of attrition.
 
 Additionally, an **automated predictor model** was developed to estimate employee attrition risk based on 20 critical workforce factors, enabling proactive HR decision-making and retention strategies.
+
+# 🎯 Problem Statement
+
+**"Understanding the Core Business Challenge Behind Employee Attrition"**
+
+Traditional HR reporting methods often fail to provide deeper insights into the real drivers behind employee exits, making it difficult for decision-makers to take timely and data-driven actions.
+
+High attrition often leads to increased recruitment expenses, knowledge loss, reduced team morale, and disruptions in business continuity.
+
+The core challenge is not just tracking attrition, but identifying why employees leave, which workforce segments are most at risk, and how attrition can be proactively reduced through predictive analysis and strategic interventions.
